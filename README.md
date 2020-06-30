@@ -24,7 +24,7 @@ npm i serverless -g
 Clone the repository
 
 ```
-git clone ...
+git clone git@github.com:ahmedhaji/task-api.git
 ```
 
 Install dependencies
