@@ -5,7 +5,10 @@ logs
 # Dependency directories
 node_modules/
 dist
+.webpack
 
 # dotenv environment variables file
 .env
 .env.test
+
+vscode
