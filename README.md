@@ -51,7 +51,7 @@ Try running any of the available queries using the docs or to get you started tr
 
 ```
 {
-	tasks {
+  tasks {
     id,
     task,
     completed,
