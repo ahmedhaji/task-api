@@ -10,7 +10,7 @@
   "dependencies": {
     "apollo-server-lambda": "^2.15.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "graphql": "^15.2.0",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.10",
